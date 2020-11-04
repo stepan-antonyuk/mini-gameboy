@@ -1,13 +1,7 @@
 # mini-gameboy
 
 This project was made to creaste small game with 3 different levels.
-In this gave you have:
-  your hero
-  walls
-  boxes
-  buttons
-  doors
-  exit
+In this gave you have: your hero, walls, boxes, buttons, doors, exit.
   
  if you place box on the door or the doors that is connected with this buttom will open.
  
