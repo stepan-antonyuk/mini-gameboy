@@ -3,7 +3,7 @@
 This project was made to creaste small game with 3 different levels.
 In this gave you have: your hero, walls, boxes, buttons, doors, exit.
   
- if you place box on the door or the doors that is connected with this buttom will open.
+ if you place box on the buttom the door that is connected with this buttom will open.
  
  you can walk threw the buttoms and boxes and exit only.
  
