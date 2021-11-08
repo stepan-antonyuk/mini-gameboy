@@ -1,4 +1,4 @@
-# mini-gameboy
+# Mini-gameboy
 
 This project was made to creaste small game with 3 different levels.
 In this gave you have: your hero, walls, boxes, buttons, doors, exit.
